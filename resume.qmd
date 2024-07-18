@@ -3,8 +3,7 @@ layout: cv
 title: Jarom Wardwell Resume
 ---
 # Jarom Wardwell
-Physicist, Mathematician, Cambridge professor.
-
+Portfolio Strategy Analyst Intern
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/jarom-wardwell-9b8121214/">My LinkedIn</a>
 </div>

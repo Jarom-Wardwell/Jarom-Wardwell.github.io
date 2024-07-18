@@ -1,89 +1,63 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jarom Wardwell Resume
 ---
-# Isaac Newton
+# Jarom Wardwell
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://www.linkedin.com/in/jarom-wardwell-9b8121214/">My LinkedIn</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+BRIGHAM YOUNG UNIVERSITY – Idaho Rexburg, ID
+B.S., Financial Economics - Minor Studies: Data Science(Expected Graduation: December 2024).
 
-### Specialized in
+__Career GPA: 3.75__
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Technical Skills
 
+Morningstar Direct (Proficient) R Language (Proficient) Python (Proficient)
+SQL (Intermediate) MS Office VBA (Intermediate) Bloomberg (Intermediate)
 
-### Research interests
+### Projects
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+__FORMATION OF BYU-IDAHO INVESTMENT SOCIETY__
+ Served as Vice President of said Investment Society.
+ Facilitated creaton of Investment Society and grew from 4 members to 16.
+ Taught students skills such as Bloomberg usage, company valuaton, and porƞolio management.
+__CFA INSTITUTE RESEARCH CHALLENGE 2024__
+ Awarded 2nd place for CFA Society Spokane, WA.
+ Head of financial analysis and valuation.
+ Devoted upwards of 50 hours on research, paper, and presentation.
 
+### Work Experience
 
-## Education
+__Townsqure Capital__
+TOWNSQUARE CAPITAL Provo, UT 
+Porƞolio Strategy Analyst Intern April 2024 – Present Day
 
-`1654-1660`
-__The King's School, Grantham.__
+ Conducted analysis of client porƞolios valued at over $115 million to identfy and address inefficiencies.
+ Developed optimized asset allocation strategies to enhance porƞolio performance and surpass risk-based 
+ benchmarks.
+ Collaborated with professional financial advisors to effectively serve and support their clients.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+ __Brigham Young University - Idaho__
 
-- Sizar
+ BRIGHAM YOUNG UNIVERSITY - IDAHO Rexburg, ID
+ Economics and Finance Tutor January 2024 – April 2024
 
-`1667 - death`
-__Trinity College, Cambridge__
+ Educated students in economics, accounting, and statistics. 
+ Helped students improve their understanding and exam scores.
+ Developed recurring clientele of students with positive reviews.
 
-- Fellow
+__The Church of Jesus Christ of Latter-Day Saints__
 
+THE CHURCH OF JESUS CHRIST OF LATTER-DAY SAINTS San Salvador, El Salvador
+Secretary of Finances / Full-Time Volunteer Representative June 2019 – June 2021
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+ Exerted upwards of 80 hours per week to provide religious teachings in Spanish.
+ Managed organizational books and cashflows.
+ Provided leadership training to groups of 30+ fellow volunteers.

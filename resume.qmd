@@ -2,7 +2,7 @@
 layout: cv
 title: Jarom Wardwell Resume
 ---
-# Jarom Wardwell
+# Jarom T. Wardwell
 Portfolio Strategy Analyst Intern
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/jarom-wardwell-9b8121214/">My LinkedIn</a>
@@ -18,29 +18,40 @@ __Career GPA: 3.75__
 
 ### Technical Skills
 
-Morningstar Direct (Proficient) R Language (Proficient) Python (Proficient)
-SQL (Intermediate) MS Office VBA (Intermediate) Bloomberg (Intermediate)
+Morningstar Direct (Proficient) 
+R Language (Proficient) 
+Python (Proficient)
+SQL (Intermediate) 
+MS Office VBA (Intermediate) 
+Bloomberg (Intermediate)
 
 ### Projects
 
 __FORMATION OF BYU-IDAHO INVESTMENT SOCIETY__
  Served as Vice President of said Investment Society.
+
  Facilitated creaton of Investment Society and grew from 4 members to 16.
+
  Taught students skills such as Bloomberg usage, company valuaton, and porƞolio management.
+
 __CFA INSTITUTE RESEARCH CHALLENGE 2024__
  Awarded 2nd place for CFA Society Spokane, WA.
+
  Head of financial analysis and valuation.
+
  Devoted upwards of 50 hours on research, paper, and presentation.
 
 ### Work Experience
 
 __Townsqure Capital__
 TOWNSQUARE CAPITAL Provo, UT 
-Porƞolio Strategy Analyst Intern April 2024 – Present Day
+Portfolio Strategy Analyst Intern April 2024 – Present Day
 
  Conducted analysis of client porƞolios valued at over $115 million to identfy and address inefficiencies.
+
  Developed optimized asset allocation strategies to enhance porƞolio performance and surpass risk-based 
  benchmarks.
+
  Collaborated with professional financial advisors to effectively serve and support their clients.
 
  __Brigham Young University - Idaho__
@@ -49,7 +60,9 @@ Porƞolio Strategy Analyst Intern April 2024 – Present Day
  Economics and Finance Tutor January 2024 – April 2024
 
  Educated students in economics, accounting, and statistics. 
+
  Helped students improve their understanding and exam scores.
+
  Developed recurring clientele of students with positive reviews.
 
 __The Church of Jesus Christ of Latter-Day Saints__
@@ -58,5 +71,7 @@ THE CHURCH OF JESUS CHRIST OF LATTER-DAY SAINTS San Salvador, El Salvador
 Secretary of Finances / Full-Time Volunteer Representative June 2019 – June 2021
 
  Exerted upwards of 80 hours per week to provide religious teachings in Spanish.
+
  Managed organizational books and cashflows.
+
  Provided leadership training to groups of 30+ fellow volunteers.
